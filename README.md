@@ -1,0 +1,1 @@
+### Please note that all files in this repo are licensed under the GPL-3.0 *except* for those in the 'essays' directory. Those are my own creative work and I reserve all rights to them. Do not redistribute them without my permission.
